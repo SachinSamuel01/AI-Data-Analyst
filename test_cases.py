@@ -1,5 +1,8 @@
 import pandas as pd
 
+path= "please provide path to the designated csv file "
+df= pd.read_csv(path)
+
 '''
 Easy:
 
@@ -19,7 +22,7 @@ Analyze seat occupancy to find the most and least popular flights.
 
 '''
 
-df= pd.read_csv('./processed_files/test1/joined_output.csv')
+
 
 
 '''
