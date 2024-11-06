@@ -69,3 +69,15 @@ Using the application:
 - Click on your collection name to access the query interface
 - Enter natural language queries about your data
 View the parsed and formatted results
+
+## Test Cases and Analysis
+
+The project includes two additional files for testing and analysis:
+
+test_cases.py
+
+- A Python script that performs classical data analysis on your CSV files without using LLMs.
+
+test_cases.txt
+
+- A collection of test results and comparisons
