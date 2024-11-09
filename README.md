@@ -9,6 +9,8 @@ Features
 - Interactive Interface: Clean and user-friendly web interface
 - Smart Response Parsing: LLM-powered interpretation of query results
 
+[![Working Demo](https://img.youtube.com/vi/YCFEciniAsA/maxresdefault.jpg)](https://youtu.be/YCFEciniAsA)
+
 ## Prerequisites
 Before running the application, make sure you have:
 
